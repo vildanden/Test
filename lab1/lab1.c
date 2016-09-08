@@ -5,9 +5,11 @@ int main()
 	printf("입력하고 싶은 숫자를 입력하세요!: ");
 	scanf("%d", &i);
 
-	if(i == 7)
+	if(i == 1)
 	{
-		printf("당신은 행운의 숫자 7을 입력했습니다.";)
+		printf("vildanden0420@gmail.com";)
+	}else if(i ==2){
+		printf("01020205827");
 	}
 
 	return 0;
